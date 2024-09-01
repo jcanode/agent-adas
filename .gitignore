@@ -1,0 +1,48 @@
+/prompt-gen
+.env
+paper.md
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Flask
+instance/
+.webassets-cache
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Environment variables
+.env
+
+# Dependencies
+/node_modules
+
+# Build output
+/build
+/dist
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Database files
+*.sqlite
