@@ -1,0 +1,17 @@
+[
+  {
+    "passage": "In 1492, Christopher Columbus set sail from Spain with three ships: the Niña, the Pinta, and the Santa María. After a journey of about two months, they arrived in the Americas on October 12, 1492. Columbus made four voyages to the Americas in total, with his final voyage taking place in 1502.",
+    "question": "How many years passed between Columbus's first and last voyage to the Americas?",
+    "answer": "10"
+  },
+  {
+    "passage": "The American Civil War began in 1861 and ended in 1865. The Union forces, led by President Abraham Lincoln, fought against the Confederate States. The war resulted in approximately 620,000 soldier deaths and an undetermined number of civilian casualties. After the Union victory, slavery was abolished in the United States.",
+    "question": "How many years did the American Civil War last?",
+    "answer": "4"
+  },
+  {
+    "passage": "The first modern Olympic Games were held in Athens, Greece, in 1896. The games featured 43 events and had 241 athletes (all male) from 14 nations. The most recent Summer Olympics, held in Tokyo in 2021, featured over 11,000 athletes from 206 nations competing in 339 events across 33 sports.",
+    "question": "How many more events were there in the 2021 Tokyo Olympics compared to the first modern Olympics?",
+    "answer": "296"
+  }
+]
